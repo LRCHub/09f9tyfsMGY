@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Focus Loving Me",
+  "base_artist": "z²",
+  "createdAt": "2026-03-10T22:27:10.495420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Focus Loving Me",
+      "artist": "z²",
+      "has_synced": true,
+      "path": "select/01_Focus_Loving_Me_z2.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Focus Loving Me (feat. lune)",
+      "artist": "z²",
+      "has_synced": true,
+      "path": "select/02_Focus_Loving_Me_(feat._lune)_z2.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "focus loving me",
+      "artist": "z lune",
+      "has_synced": true,
+      "path": "select/03_focus_loving_me_z_lune.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Focus Loving Me (feat. lune)",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_Focus_Loving_Me_(feat._lune)_z2.txt"
+    }
+  ]
+}
